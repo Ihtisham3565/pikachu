@@ -61,7 +61,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/ihtisham3565/pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm i
